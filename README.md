@@ -17,6 +17,8 @@ I can enjoy it with foreign friends.
 ——————————————————
 
 1：pip install panda3d
+
+
 2:pip install tk
 
 _________________________________
